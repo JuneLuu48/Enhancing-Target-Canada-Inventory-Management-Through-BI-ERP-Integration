@@ -1,4 +1,4 @@
-# BUSA3002
+# Enhancing Target Canada Inventory Management using BI
 
 The purpose of the proposed Business Intelligence (BI) application is to support effective inventory management and managerial decision-making by transforming ERP transactional data into real-time, actionable insights. Specifically, the BI application is designed to address the inventory management failures experienced by Target Canada by improving data accuracy, visibility, and demand forecasting capabilities.
 

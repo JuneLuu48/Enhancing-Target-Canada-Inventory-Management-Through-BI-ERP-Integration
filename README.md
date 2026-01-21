@@ -1,9 +1,31 @@
 # Enhancing Target Canada Inventory Management using BI
 
-The purpose of the proposed Business Intelligence (BI) application is to support effective inventory management and managerial decision-making by transforming ERP transactional data into real-time, actionable insights. Specifically, the BI application is designed to address the inventory management failures experienced by Target Canada by improving data accuracy, visibility, and demand forecasting capabilities.
+## Purpose of the BI application
+Transform ERP transactional data into real-time, actionable insights
+Support effective inventory management and managerial decision-making
+Address Target Canada’s inventory failures related to data accuracy, visibility, and forecasting
 
-By integrating data from ERP, POS, and warehouse management systems into a centralized data warehouse, the BI application establishes a single source of truth for inventory-related information. This enables real-time monitoring of stock levels, product movement, and delivery performance, reducing the risk of stockouts, overstocking, and data inconsistencies.
+## Data integration and centralisation
+Integrate data from ERP, POS, and warehouse management systems
+Store data in a centralized data warehouse as a single source of truth
+Enable consistent, accurate, and real-time inventory information across departments
 
-In addition, the BI application leverages advanced analytics and machine learning models to analyse historical sales patterns, regional demand trends, and seasonal variations. These capabilities allow managers to generate more accurate demand forecasts, optimise replenishment decisions, and adapt inventory strategies to local market conditions rather than relying on assumptions from external markets.
+## Real-time inventory visibility
+Monitor stock levels, product movement, and delivery performance in real time
+Reduce risks of stockouts, overstocking, and data inconsistencies
+Improve operational control and supply chain coordination
 
-Finally, through interactive dashboards and automated alerts, the BI application enhances operational transparency and responsiveness, enabling managers to quickly identify issues, take corrective action, and make data-driven decisions. Overall, the BI application aims to create a resilient, insight-driven inventory management system that improves operational efficiency, customer satisfaction, and long-term business performance.
+## Advanced analytics and demand forecasting
+Analyse historical sales data, regional demand trends, and seasonal patterns
+Apply advanced analytics and machine learning models for accurate forecasting
+Optimise replenishment decisions based on local market conditions rather than external assumptions
+
+## Decision support and managerial insights
+Use interactive dashboards to visualise key inventory and performance metrics
+Implement automated alerts to highlight anomalies and critical inventory issues
+Enable faster, proactive, and data-driven managerial decision-making
+
+## Overall outcomes
+Establish a resilient, insight-driven inventory management system
+Improve operational efficiency and customer satisfaction
+Support sustainable, long-term business performance
